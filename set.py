@@ -27,3 +27,4 @@ print(f"El conjunto es: {set_numbers} y es de tipo {type(set_numbers)}")
 unique_numbers = list(set_numbers)
 print(f"La lista es: {unique_numbers} y es de tipo {type(unique_numbers)}")
 
+# se trabajara asi
