@@ -28,3 +28,7 @@ unique_numbers = list(set_numbers)
 print(f"La lista es: {unique_numbers} y es de tipo {type(unique_numbers)}")
 
 # se trabajara asi
+
+libro = 'Para aprender a hacer microservicios con C# te recomendaría tomar los siguientes cursos de Platzi: Curso de C# con .Net Core 2.1: Este curso te enseñará los fundamentos del lenguaje C# y cómo utilizarlo junto con .Net Core para desarrollar aplicaciones web y servicios. Curso de APIs con .NET: En este curso aprenderás a crear APIs utilizando el framework de desarrollo web de .NET. Te enseñarán cómo diseñar, implementar y documentar APIs RESTful utilizando C#. Curso de ASP.NET Core: Este curso te enseñará a desarrollar aplicaciones web utilizando el framework ASP.NET Core. Aprenderás a crear controladores, vistas y modelos utilizando C# y cómo implementar funcionalidades como autenticación y autorización. Estos cursos te proporcionarán los conocimientos necesarios para desarrollar microservicios utilizando C# y .NET. ¡Espero que te sean de ayuda!'
+letras_libro = set(libro)
+print(letras_libro)
