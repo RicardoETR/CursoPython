@@ -38,3 +38,4 @@ print(len(matches))
 words = ['amor', 'sol', 'piedra', 'día']
 response = list(filter(lambda item : len(item)>=4, words))
 print(response)
+
